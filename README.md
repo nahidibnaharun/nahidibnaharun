@@ -1,29 +1,23 @@
 # Hi, I'm Nahid 👋
 
 4th year CSE undergrad at Port City University, Bangladesh.  
-Passionate about competitive programming, math, physics, and AI. Focused on problem solving and building practical projects.
+Passionate about competitive programming, math, physics, and AI.
 
 ---
 
 ## 🛠️ Skills
 
-- **Languages:** C++, Python, JavaScript, PHP  
-- **Competitive Programming:** Data Structures, Algorithms, Problem Solving  
-- **Web Development:** HTML, CSS, JavaScript, PHP, MySQL  
-- **Tools:** Git, VSCode, XAMPP, Linux  
-- **Others:** Matplotlib, NumPy (basic Python libraries for ML)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,php,mysql,html,css" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats & Trophies
 
-[![Nahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=nahidibnaharun&show_icons=true&theme=radical&count_private=true)](https://github.com/nahidibnaharun)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nahidibnaharun&theme=radical)](https://github.com/nahidibnaharun)
-
+[![Nahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=nahidibnaharun&show_icons=true&theme=radical&count_private=true)](https://github.com/nahidibnaharun)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nahidibnaharun&theme=radical)](https://github.com/nahidibnaharun)  
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nahidibnaharun&theme=radical)](https://github.com/nahidibnaharun)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nahidibnaharun&layout=compact&theme=radical)](https://github.com/nahidibnaharun)
 
 ---
 
@@ -31,11 +25,9 @@ Passionate about competitive programming, math, physics, and AI. Focused on prob
 
 | Project                          | Description                                            | Link                                                         |
 |---------------------------------|--------------------------------------------------------|--------------------------------------------------------------|
-| [Productivity_Nexus_V3](https://github.com/nahidibnaharun/Productivity_Nexus_V3)           | Full-featured productivity web app with task management and focus timers. | [Live Demo](https://nahidibnaharun.github.io/Productivity_Nexus_V3/) |
-| [CP-ALGORITHM](https://github.com/nahidibnaharun/CP-ALGORITHM)                 | Collection of algorithms and data structures for competitive programming.  | [Repo](https://github.com/nahidibnaharun/CP-ALGORITHM)        |
-| [RPG-Dragon-Repeller](https://github.com/nahidibnaharun/RPG-Dragon-Repeller)  | Browser-based RPG game demonstrating interactive JavaScript skills.       | [Live Demo](https://nahidibnaharun.github.io/RPG-Dragon-Repeller/)    |
-| [Movies_Site](https://github.com/nahidibnaharun/Movies_Site)                   | Responsive movie info website built with HTML, CSS, and JavaScript.        | [Live Demo](https://nahidibnaharun.github.io/Movies_Site/)              |
-| [AI-and-ML-and-Pattern-Recognition](https://github.com/nahidibnaharun/AI-and-ML-and-Pattern-Recognition) | Starter repo for AI and pattern recognition projects.                    | [Repo](https://github.com/nahidibnaharun/AI-and-ML-and-Pattern-Recognition) |
+| [Productivity_Nexus_V3](https://github.com/nahidibnaharun/Productivity_Nexus_V3)           | Full productivity web app with task management and timers. | [Live Demo](https://nahidibnaharun.github.io/Productivity_Nexus_V3/) |
+| [CP-ALGORITHM](https://github.com/nahidibnaharun/CP-ALGORITHM)                 | CP algorithms and data structures collection.  | [Repo](https://github.com/nahidibnaharun/CP-ALGORITHM)        |
+| [RPG-Dragon-Repeller](https://github.com/nahidibnaharun/RPG-Dragon-Repeller)  | Browser RPG game with JS skills.       | [Live Demo](https://nahidibnaharun.github.io/RPG-Dragon-Repeller/)    |
 
 ---
 
@@ -56,4 +48,6 @@ Passionate about competitive programming, math, physics, and AI. Focused on prob
 
 ---
 
-> “I focus on doing what’s important and necessary to build meaningful solutions.”
+![Visitor Count](https://profile-counter.glitch.me/nahidibnaharun/count.svg)
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
