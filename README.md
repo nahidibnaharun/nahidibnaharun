@@ -15,6 +15,14 @@ Passionate about competitive programming, math, physics, and AI. Focused on prob
 
 ---
 
+## 📊 GitHub Stats
+
+[![Nahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=nahidibnaharun&show_icons=true&theme=radical&count_private=true)](https://github.com/nahidibnaharun)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nahidibnaharun&layout=compact&theme=radical)](https://github.com/nahidibnaharun)
+
+---
+
 ## 🚀 Featured Projects
 
 | Project                          | Description                                            | Link                                                         |
@@ -27,11 +35,19 @@ Passionate about competitive programming, math, physics, and AI. Focused on prob
 
 ---
 
+## 💻 Competitive Programming Profiles
+
+[![Codeforces](https://img.shields.io/badge/Codeforces-mdnahidibnaharun-blue?logo=codeforces)](https://codeforces.com/profile/mdnahidibnaharun)  
+[![CodeChef](https://img.shields.io/badge/CodeChef-nahidibnaharun-ff5500?logo=codechef)](https://www.codechef.com/users/nahidibnaharun)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-nahidibnaharun-yellow?logo=leetcode)](https://leetcode.com/u/nahidibnaharun/)  
+[![AtCoder](https://img.shields.io/badge/AtCoder-nahidibnaharun-red?logo=atcoder)](https://atcoder.jp/users/nahidibnaharun)  
+[![CSES](https://img.shields.io/badge/CSES-nahidibnaharun-blueviolet?logo=cses)](https://cses.fi/user/104398)
+
+---
+
 ## 📫 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nahid-blue?logo=linkedin)](https://www.linkedin.com/in/nahidibnaharun/)  
-[![Codeforces](https://img.shields.io/badge/Codeforces-mdnahidibnaharun-blue?logo=codeforces)](https://codeforces.com/profile/mdnahidibnaharun)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-nahidibnaharun-yellow?logo=leetcode)](https://leetcode.com/u/nahidibnaharun/)  
 ✉️ [nahidibnaharun@gmail.com](mailto:nahidibnaharun@gmail.com)
 
 ---
