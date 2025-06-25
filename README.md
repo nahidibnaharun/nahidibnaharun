@@ -40,6 +40,23 @@ Passionate about competitive programming, math, physics, and AI.
 [![CSES](https://img.shields.io/badge/CSES-nahidibnaharun-blueviolet?logo=cses&style=for-the-badge)](https://cses.fi/user/104398)
 
 ---
+---
+
+## 🌱 Currently Learning
+- Deep Learning with PyTorch
+- Advanced Graph Algorithms
+
+## 🎓 Education
+**Port City International University**  
+B.Sc. in Computer Science & Engineering (2021 – 2025 expected)
+
+## ⚡ Legit Fact
+I’ve solved over 1500 competitive programming problems across various platforms!
+
+## 🚀 Open to Work
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Yes-brightgreen)
+
+---
 
 ## 📫 Connect with me
 
