@@ -19,12 +19,12 @@ Passionate about competitive programming, math, physics, and AI.
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nahidibnaharun&theme=radical)](https://github.com/nahidibnaharun)  
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nahidibnaharun&theme=radical)](https://github.com/nahidibnaharun)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahidibnaharun&layout=compact&theme=radical)](https://github.com/nahidibnaharun)
-[📊 View 3D Profile Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nahidibnaharun&theme=vue)
+![Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nahidibnaharun&theme=radical)
 
 ---
 
 ## 📈 GitHub Activity Graph
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nahidibnaharun&theme=tokyo-night)](https://github.com/nahidibnaharun)
+[![Activity Graph]([https://github-readme-activity-graph.vercel.app/graph?username=nahidibnaharun&theme=tokyo-night)](https://github.com/nahidibnaharun](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nahidibnaharun&theme=vue))
 
 ---
 
