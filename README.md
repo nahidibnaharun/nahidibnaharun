@@ -33,7 +33,8 @@ Passionate about competitive programming, math, physics, and AI.
 
 ---
 ## 🎯 Contribution Graph (Animated)  
-![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
+![snake gif](https://github.com/nahidibnaharun/nahidibnaharun/blob/output/github-snake-dark.svg)
+
 
 ---
 
