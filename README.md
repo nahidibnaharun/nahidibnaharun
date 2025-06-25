@@ -17,9 +17,26 @@ Passionate about competitive programming, math, physics, and AI.
 
 [![Nahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=nahidibnaharun&show_icons=true&theme=radical&count_private=true)](https://github.com/nahidibnaharun)  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nahidibnaharun&theme=radical)](https://github.com/nahidibnaharun)  
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nahidibnaharun&theme=radical)](https://github.com/nahidibnaharun)
-
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nahidibnaharun&theme=radical)](https://github.com/nahidibnaharun)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahidibnaharun&layout=compact&theme=radical)](https://github.com/nahidibnaharun)
+
+---
+
+## 🧠 Contribution Snake Animation
+
+![Snake animation](https://github.com/nahidibnaharun/nahidibnaharun/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 📈 GitHub Activity Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nahidibnaharun&theme=radical)](https://github.com/nahidibnaharun)
+
+---
+
+## 📊 GitHub Metrics
+
+<img src="https://raw.githubusercontent.com/nahidibnaharun/nahidibnaharun/main/github-metrics.svg" alt="Metrics" width="100%">
 
 ---
 
@@ -32,11 +49,10 @@ Passionate about competitive programming, math, physics, and AI.
 
 ## 🎓 Education
 
-![Port City International University](https://img.shields.io/badge/Port%20City%20IU-2022%20%E2%80%9C2026-blue?style=flat-square&logo=education)
+![Port City International University](https://img.shields.io/badge/Port%20City%20IU-2022%20%E2%80%93%202026-blue?style=flat-square&logo=education)
 
 B.Sc. in Computer Science & Engineering (2022 – 2026 expected)
 
-Port City International University
 ---
 
 ## ⚡ Legit Fact
@@ -82,3 +98,9 @@ Port City International University
 
 > “I focus on doing what’s important and necessary to build meaningful solutions.”  
 > — *Nahid Ibna Harun*
+
+---
+
+## 🧠 Dev Quote of the Day
+
+![Dev Quote](https://readme-quote.vercel.app/api?theme=radical)
