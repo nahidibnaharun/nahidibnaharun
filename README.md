@@ -15,9 +15,13 @@ Passionate about competitive programming, math, physics, and AI. Focused on prob
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Trophies
 
 [![Nahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=nahidibnaharun&show_icons=true&theme=radical&count_private=true)](https://github.com/nahidibnaharun)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nahidibnaharun&theme=radical)](https://github.com/nahidibnaharun)
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nahidibnaharun&theme=radical)](https://github.com/nahidibnaharun)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nahidibnaharun&layout=compact&theme=radical)](https://github.com/nahidibnaharun)
 
@@ -37,17 +41,17 @@ Passionate about competitive programming, math, physics, and AI. Focused on prob
 
 ## 💻 Competitive Programming Profiles
 
-[![Codeforces](https://img.shields.io/badge/Codeforces-mdnahidibnaharun-blue?logo=codeforces)](https://codeforces.com/profile/mdnahidibnaharun)  
-[![CodeChef](https://img.shields.io/badge/CodeChef-nahidibnaharun-ff5500?logo=codechef)](https://www.codechef.com/users/nahidibnaharun)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-nahidibnaharun-yellow?logo=leetcode)](https://leetcode.com/u/nahidibnaharun/)  
-[![AtCoder](https://img.shields.io/badge/AtCoder-nahidibnaharun-red?logo=atcoder)](https://atcoder.jp/users/nahidibnaharun)  
-[![CSES](https://img.shields.io/badge/CSES-nahidibnaharun-blueviolet?logo=cses)](https://cses.fi/user/104398)
+[![Codeforces](https://img.shields.io/badge/Codeforces-mdnahidibnaharun-blue?logo=codeforces&style=for-the-badge)](https://codeforces.com/profile/mdnahidibnaharun)  
+[![CodeChef](https://img.shields.io/badge/CodeChef-nahidibnaharun-ff5500?logo=codechef&style=for-the-badge)](https://www.codechef.com/users/nahidibnaharun)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-nahidibnaharun-yellow?logo=leetcode&style=for-the-badge)](https://leetcode.com/u/nahidibnaharun/)  
+[![AtCoder](https://img.shields.io/badge/AtCoder-nahidibnaharun-red?logo=atcoder&style=for-the-badge)](https://atcoder.jp/users/nahidibnaharun)  
+[![CSES](https://img.shields.io/badge/CSES-nahidibnaharun-blueviolet?logo=cses&style=for-the-badge)](https://cses.fi/user/104398)
 
 ---
 
 ## 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nahid-blue?logo=linkedin)](https://www.linkedin.com/in/nahidibnaharun/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nahid-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/nahidibnaharun/)  
 ✉️ [nahidibnaharun@gmail.com](mailto:nahidibnaharun@gmail.com)
 
 ---
