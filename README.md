@@ -32,9 +32,9 @@ Passionate about competitive programming, math, physics, and AI.
 
 ## 🎓 Education
 
-![Port City International University](https://img.shields.io/badge/Port%20City%20IU-2022%20%E2%80%9C2026-blue?style=flat-square&logo=education)  
+![Port City International University](https://img.shields.io/badge/Port%20City%20IU-2022%-%E2%80%9C2026-blue?style=flat-square&logo=education)  
 B.Sc. in Computer Science & Engineering (2022 – 2026 expected)
-
+Port City International University
 ---
 
 ## ⚡ Legit Fact
