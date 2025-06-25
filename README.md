@@ -34,7 +34,7 @@ Passionate about competitive programming, math, physics, and AI.
 ---
 ## 🎯 Contribution Graph (Animated)  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Suprio-Das/Suprio-Das/output/github-snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/nahidibnaharun/nahidibnaharun/output/github-snake-dark.svg"/>
 </p>
 ---
 ## 🌱 Currently Learning
@@ -57,7 +57,7 @@ B.Sc. in Computer Science & Engineering (2022 – 2026 expected)
 
 ---
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=tasninanika&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=nahidibnaharun&limit=5&theme=dark&combine_all_yearly_contributions=true)
 ## 🚀 Featured Projects
 
 | Project | Description | Link |
