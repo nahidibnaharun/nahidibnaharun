@@ -84,5 +84,5 @@ B.Sc. in Computer Science & Engineering (2022 – 2026 expected)
 
 ## 💡 Favorite Quote
 
-> “I focus on doing what’s important and necessary to build meaningful solutions.”  
+> “Time goes fast when you keep watching others move. But when you move fast, time feels slow. So use time, do work — then sleep feels better.”  
 > — *Nahid Ibna Harun*
