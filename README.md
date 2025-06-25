@@ -12,11 +12,6 @@ Passionate about competitive programming, math, physics, and AI.
 </p>
 
 ---
-## 🎯 Contribution Graph (Animated)  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Suprio-Das/Suprio-Das/output/github-snake-dark.svg"/>
-</p>
----
 ## 📊 GitHub Stats & Trophies
 
 [![Nahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=nahidibnaharun&show_icons=true&theme=radical&count_private=true)](https://github.com/nahidibnaharun)  
@@ -32,7 +27,11 @@ Passionate about competitive programming, math, physics, and AI.
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nahidibnaharun&theme=tokyo-night)](https://github.com/nahidibnaharun)
 
 ---
-
+## 🎯 Contribution Graph (Animated)  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Suprio-Das/Suprio-Das/output/github-snake-dark.svg"/>
+</p>
+---
 ## 🌱 Currently Learning
 
 <img alt="Deep Learning w/ PyTorch" src="https://img.shields.io/badge/Deep%20Learning-PyTorch-orange?style=flat-square&logo=pytorch" />  
