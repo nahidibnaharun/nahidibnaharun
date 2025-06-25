@@ -56,7 +56,8 @@ B.Sc. in Computer Science & Engineering (2022 – 2026 expected)
 ![1500+ Problems Solved](https://img.shields.io/badge/Solved-1500%2B%20Problems-brightgreen?style=flat-square&logo=leetcode)
 
 ---
-
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=tasninanika&limit=5&theme=dark&combine_all_yearly_contributions=true)
 ## 🚀 Featured Projects
 
 | Project | Description | Link |
