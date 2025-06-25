@@ -24,7 +24,8 @@ Passionate about competitive programming, math, physics, and AI.
 ---
 
 ## 📈 GitHub Activity Graph
-[![Activity Graph]([https://github-readme-activity-graph.vercel.app/graph?username=nahidibnaharun&theme=tokyo-night)](https://github.com/nahidibnaharun](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nahidibnaharun&theme=vue))
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nahidibnaharun&theme=tokyo-night)](https://github.com/nahidibnaharun)
 
 ---
 
