@@ -23,7 +23,7 @@ Passionate about competitive programming, math, physics, and AI.
 ---
 
 ## 📈 GitHub Activity Graph
-
+![Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nahidibnaharun&theme=radical)
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nahidibnaharun&theme=tokyo-night)](https://github.com/nahidibnaharun)
 
 ---
