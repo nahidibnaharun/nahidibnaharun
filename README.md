@@ -22,21 +22,9 @@ Passionate about competitive programming, math, physics, and AI.
 
 ---
 
-## 🧠 Contribution Snake Animation
-
-![Snake animation](https://github.com/nahidibnaharun/nahidibnaharun/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ## 📈 GitHub Activity Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nahidibnaharun&theme=radical)](https://github.com/nahidibnaharun)
-
----
-
-## 📊 GitHub Metrics
-
-<img src="https://raw.githubusercontent.com/nahidibnaharun/nahidibnaharun/main/github-metrics.svg" alt="Metrics" width="100%">
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nahidibnaharun&theme=tokyo-night)](https://github.com/nahidibnaharun)
 
 ---
 
@@ -49,8 +37,7 @@ Passionate about competitive programming, math, physics, and AI.
 
 ## 🎓 Education
 
-![Port City International University](https://img.shields.io/badge/Port%20City%20IU-2022%20%E2%80%93%202026-blue?style=flat-square&logo=education)
-
+![Port City International University](https://img.shields.io/badge/Port%20City%20IU-2022%20%E2%80%93%202026-blue?style=flat-square&logo=education)  
 B.Sc. in Computer Science & Engineering (2022 – 2026 expected)
 
 ---
@@ -79,7 +66,8 @@ B.Sc. in Computer Science & Engineering (2022 – 2026 expected)
 [![CodeChef](https://img.shields.io/badge/CodeChef-nahidibnaharun-orange?logo=codechef&style=for-the-badge)](https://www.codechef.com/users/nahidibnaharun)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-nahidibnaharun-yellow?logo=leetcode&style=for-the-badge)](https://leetcode.com/u/nahidibnaharun/)  
 [![AtCoder](https://img.shields.io/badge/AtCoder-nahidibnaharun-red?logo=atcoder&style=for-the-badge)](https://atcoder.jp/users/nahidibnaharun)  
-[![CSES](https://img.shields.io/badge/CSES-104398-blueviolet?logo=cses&style=for-the-badge)](https://cses.fi/user/104398)
+[![CSES](https://img.shields.io/badge/CSES-104398-blueviolet?logo=cses&style=for-the-badge)](https://cses.fi/user/104398)  
+[![Code360](https://img.shields.io/badge/Naukri%20Code360-Nahid-green?logo=google&style=for-the-badge)](https://www.naukri.com/code360/profile/nahidibnaharun)
 
 ---
 
@@ -98,9 +86,3 @@ B.Sc. in Computer Science & Engineering (2022 – 2026 expected)
 
 > “I focus on doing what’s important and necessary to build meaningful solutions.”  
 > — *Nahid Ibna Harun*
-
----
-
-## 🧠 Dev Quote of the Day
-
-![Dev Quote](https://readme-quote.vercel.app/api?theme=radical)
