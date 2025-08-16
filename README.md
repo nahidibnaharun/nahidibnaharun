@@ -63,7 +63,7 @@ B.Sc. in Computer Science & Engineering (2022 – 2026 expected)
 
 | Project | Description | Link |
 |---------|-------------|------|
-| [Productivity_Nexus_V3](https://github.com/nahidibnaharun/Productivity_Nexus_V3) | Full productivity web app with task management & timers | [Live Demo](https://nahidibnaharun.github.io/Productivity_Nexus_V3/) |
+| [Productivity_Nexus_V3](https://github.com/nahidibnaharun/Productivity_Nexus_V3) | Full productivity web app with task management & timers | [Live Demo](https://nahidibnaharun1.netlify.app/dashboard.html) |
 | [CP-ALGORITHM](https://github.com/nahidibnaharun/CP-ALGORITHM) | Core algorithms & data structures for CP | [Repo](https://github.com/nahidibnaharun/CP-ALGORITHM) |
 | [RPG-Dragon-Repeller](https://github.com/nahidibnaharun/RPG-Dragon-Repeller) | Interactive browser RPG game | [Live Demo](https://nahidibnaharun.github.io/RPG-Dragon-Repeller/) |
 | [Movies_Site](https://github.com/nahidibnaharun/Movies_Site) | Responsive movie info website | [Live Demo](https://nahidibnaharun.github.io/Movies_Site/) |
