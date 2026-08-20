@@ -84,7 +84,7 @@ B.Sc. in Computer Science & Engineering (2022 – 2026 expected)
 
 ## 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nahid-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/nahidibnaharun/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nahid-blue?logo=linkedin&style=for-the-badge)]([https://www.linkedin.com/in/nahidibnaharun/](https://www.linkedin.com/in/nahid-ibna-harun-00ab14225/))  
 ✉️ [nahidibnaharun@gmail.com](mailto:nahidibnaharun@gmail.com)
 
 ---
